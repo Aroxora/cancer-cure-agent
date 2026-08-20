@@ -1,26 +1,26 @@
 {
-  "generated": "2026-08-13",
+  "generated": "2026-08-20",
   "targets": [
     {
       "target": "ABL1",
       "slug": "ABL1",
       "file": "ABL1.json",
       "count": 25,
-      "generated": "2026-08-13"
+      "generated": "2026-08-20"
     },
     {
       "target": "AKT1",
       "slug": "AKT1",
       "file": "AKT1.json",
       "count": 25,
-      "generated": "2026-08-13"
+      "generated": "2026-08-20"
     },
     {
       "target": "ALK",
       "slug": "ALK",
       "file": "ALK.json",
       "count": 25,
-      "generated": "2026-08-13"
+      "generated": "2026-08-20"
     },
     {
       "target": "ATR",
@@ -34,56 +34,56 @@
       "slug": "AURKA",
       "file": "AURKA.json",
       "count": 25,
-      "generated": "2026-08-13"
+      "generated": "2026-08-20"
     },
     {
       "target": "BCL2",
       "slug": "BCL2",
       "file": "BCL2.json",
       "count": 25,
-      "generated": "2026-08-13"
+      "generated": "2026-08-20"
     },
     {
       "target": "BRAF",
       "slug": "BRAF",
       "file": "BRAF.json",
       "count": 25,
-      "generated": "2026-08-13"
+      "generated": "2026-08-20"
     },
     {
       "target": "BTK",
       "slug": "BTK",
       "file": "BTK.json",
       "count": 25,
-      "generated": "2026-08-13"
+      "generated": "2026-08-20"
     },
     {
       "target": "CDK2",
       "slug": "CDK2",
       "file": "CDK2.json",
       "count": 25,
-      "generated": "2026-08-13"
+      "generated": "2026-08-20"
     },
     {
       "target": "CDK4",
       "slug": "CDK4",
       "file": "CDK4.json",
       "count": 25,
-      "generated": "2026-08-13"
+      "generated": "2026-08-20"
     },
     {
       "target": "CDK6",
       "slug": "CDK6",
       "file": "CDK6.json",
       "count": 25,
-      "generated": "2026-08-13"
+      "generated": "2026-08-20"
     },
     {
       "target": "CDK9",
       "slug": "CDK9",
       "file": "CDK9.json",
       "count": 25,
-      "generated": "2026-08-13"
+      "generated": "2026-08-20"
     },
     {
       "target": "CHEK1",
@@ -97,119 +97,119 @@
       "slug": "EGFR",
       "file": "EGFR.json",
       "count": 25,
-      "generated": "2026-08-13"
+      "generated": "2026-08-20"
     },
     {
       "target": "ERBB2",
       "slug": "ERBB2",
       "file": "ERBB2.json",
       "count": 25,
-      "generated": "2026-08-13"
+      "generated": "2026-08-20"
     },
     {
       "target": "EZH2",
       "slug": "EZH2",
       "file": "EZH2.json",
       "count": 25,
-      "generated": "2026-08-13"
+      "generated": "2026-08-20"
     },
     {
       "target": "FGFR1",
       "slug": "FGFR1",
       "file": "FGFR1.json",
       "count": 25,
-      "generated": "2026-08-13"
+      "generated": "2026-08-20"
     },
     {
       "target": "FGFR2",
       "slug": "FGFR2",
       "file": "FGFR2.json",
       "count": 25,
-      "generated": "2026-08-13"
+      "generated": "2026-08-20"
     },
     {
       "target": "FGFR3",
       "slug": "FGFR3",
       "file": "FGFR3.json",
       "count": 25,
-      "generated": "2026-08-13"
+      "generated": "2026-08-20"
     },
     {
       "target": "FLT3",
       "slug": "FLT3",
       "file": "FLT3.json",
       "count": 25,
-      "generated": "2026-08-13"
+      "generated": "2026-08-20"
     },
     {
       "target": "IDH1",
       "slug": "IDH1",
       "file": "IDH1.json",
       "count": 25,
-      "generated": "2026-08-13"
+      "generated": "2026-08-20"
     },
     {
       "target": "IDH2",
       "slug": "IDH2",
       "file": "IDH2.json",
       "count": 25,
-      "generated": "2026-08-13"
+      "generated": "2026-08-20"
     },
     {
       "target": "JAK2",
       "slug": "JAK2",
       "file": "JAK2.json",
       "count": 25,
-      "generated": "2026-08-13"
+      "generated": "2026-08-20"
     },
     {
       "target": "KIT",
       "slug": "KIT",
       "file": "KIT.json",
       "count": 25,
-      "generated": "2026-08-13"
+      "generated": "2026-08-20"
     },
     {
       "target": "KRAS G12C",
       "slug": "KRAS_G12C",
       "file": "KRAS_G12C.json",
       "count": 25,
-      "generated": "2026-08-13"
+      "generated": "2026-08-20"
     },
     {
       "target": "MAP2K1",
       "slug": "MAP2K1",
       "file": "MAP2K1.json",
       "count": 25,
-      "generated": "2026-08-13"
+      "generated": "2026-08-20"
     },
     {
       "target": "MET",
       "slug": "MET",
       "file": "MET.json",
       "count": 25,
-      "generated": "2026-08-13"
+      "generated": "2026-08-20"
     },
     {
       "target": "MTOR",
       "slug": "MTOR",
       "file": "MTOR.json",
       "count": 25,
-      "generated": "2026-08-13"
+      "generated": "2026-08-20"
     },
     {
       "target": "NTRK1",
       "slug": "NTRK1",
       "file": "NTRK1.json",
       "count": 25,
-      "generated": "2026-08-13"
+      "generated": "2026-08-20"
     },
     {
       "target": "PARP1",
       "slug": "PARP1",
       "file": "PARP1.json",
       "count": 25,
-      "generated": "2026-08-13"
+      "generated": "2026-08-20"
     },
     {
       "target": "PDGFRA",
@@ -223,7 +223,7 @@
       "slug": "PIK3CA",
       "file": "PIK3CA.json",
       "count": 25,
-      "generated": "2026-08-13"
+      "generated": "2026-08-20"
     },
     {
       "target": "PLK1",
@@ -237,14 +237,14 @@
       "slug": "RET",
       "file": "RET.json",
       "count": 25,
-      "generated": "2026-08-13"
+      "generated": "2026-08-20"
     },
     {
       "target": "ROS1",
       "slug": "ROS1",
       "file": "ROS1.json",
       "count": 25,
-      "generated": "2026-08-13"
+      "generated": "2026-08-20"
     },
     {
       "target": "SMO",
@@ -265,7 +265,7 @@
       "slug": "WEE1",
       "file": "WEE1.json",
       "count": 25,
-      "generated": "2026-08-13"
+      "generated": "2026-08-20"
     }
   ]
 }
